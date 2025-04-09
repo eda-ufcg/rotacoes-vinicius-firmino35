@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Vinicius Cândido Firmino 
+* Email (@ccc): vinicius.candido.firmino@ccc.ufcg.edu.br
+* Matrícula: 123210338
 
 # Roteiro: isAVL
 
