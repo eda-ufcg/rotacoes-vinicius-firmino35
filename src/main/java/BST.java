@@ -7,6 +7,7 @@ public class BST {
     private Node root;
     private int size;
 
+//comentario
     public boolean isAVL() {
         return isAVL(this.root);
         }
