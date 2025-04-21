@@ -1,6 +1,6 @@
 # Identificação
 
-* Nome: Vinicius Cândido Firmino 
+* Nome: Vinicius Candido Firmino 
 * Email (@ccc): vinicius.candido.firmino@ccc.ufcg.edu.br
 * Matrícula: 123210338
 
